@@ -1,15 +1,11 @@
-# designPatterns
-school projects
-Every folder has an instruction provides the detail of how the program implements. Here is to briefly explain those programs meant to do.
+implement diverse design patterns to create applications
 
-** A3 **
 
-PartA:
-By applying Command Pattern, the program simulates a remote controller(RemoteControlAPP), which the remote does not have the specifics of the vendor classes(the objects actually perform the action). Instead, a request of an action is encapsulated into an object. 
+RemoteControl:
+This program employs the Command Pattern to simulate a remote controller, encapsulating actions into objects for a dynamic and versatile experience.
 
-PartB:
-By applying Singleton and Template Method, the program simulates a simplified Mario game where defines the skeleton of an algorithm in a method and deferring some steps to subclasses(let the subclasses to redefine certain steps of an algorithm) without changing the algorithm structure.
+Simplified Mario game:
+By implementing factory pattern, based on the chosen settings(game world and difficulty level, in this case), the game generates(instantiates) the corresponding enemies(classes).
 
-** A4 **
-
-By implementing Composite and Visitor Pattern, the program simulates a storage algorithm that objects(file/folder) are composed into a tree structure. Then add additional operations(backup/search).
+StorageAlgorithm:
+The program simulates a storage algorithm, that objects(file/folder) are composed into a tree structure, by implementing Composite and Visitor Pattern.

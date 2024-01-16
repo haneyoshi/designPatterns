@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MacroOffCommand
+comment0.text=\n\ Name\:\ \ \ \ \ \ \ \ YUSHAN\ HUNG\n\ Course\:\ \ \ \ \ \ \ ACS-3913\n\ Student\ ID\:\ \ 3133878\n\ Assignment\:\ \ Assigment3\n
+comment1.params=commands
+comment1.target=MacroOffCommand(Command[])
+comment2.params=
+comment2.target=void\ execute()
+comment3.params=
+comment3.target=void\ undo()
+comment3.text=\n\ NOTE\:\ \ these\ commands\ have\ to\ be\ done\ backwards\ to\ ensure\ proper\ undo\ functionality\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Light
+comment0.text=From\ Head\ First\ Design\ Patterns,\ Freeman\ &\ Robson\ et\ al.
+comment1.params=location
+comment1.target=Light(java.lang.String)
+comment2.params=
+comment2.target=void\ on()
+comment3.params=
+comment3.target=void\ off()
+numComments=4

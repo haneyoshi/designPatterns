@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FileComponent
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=FileComponent\ getParent()
+comment3.params=fc
+comment3.target=void\ setParent(FileComponent)
+comment4.params=fc
+comment4.target=void\ addFileComponent(FileComponent)
+comment5.params=indent
+comment5.target=void\ display(java.lang.String)
+comment6.params=
+comment6.target=int\ getSize()
+comment7.params=
+comment7.target=java.lang.String\ getPath()
+comment8.params=v
+comment8.target=void\ accept(Visitor)
+comment9.params=s
+comment9.target=void\ accept(SearchVisitor)
+numComments=10

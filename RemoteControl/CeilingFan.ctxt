@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CeilingFan
+comment0.text=From\ Head\ First\ Design\ Patterns,\ Freeman\ &\ Robson\ et\ al.
+comment1.params=location
+comment1.target=CeilingFan(java.lang.String)
+comment2.params=
+comment2.target=void\ high()
+comment3.params=
+comment3.target=void\ medium()
+comment4.params=
+comment4.target=void\ low()
+comment5.params=
+comment5.target=void\ off()
+comment6.params=
+comment6.target=int\ getSpeed()
+numComments=7

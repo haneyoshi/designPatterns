@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Stereo
+comment0.text=From\ Head\ First\ Design\ Patterns,\ Freeman\ &\ Robson\ et\ al.
+comment1.params=location
+comment1.target=Stereo(java.lang.String)
+comment2.params=
+comment2.target=void\ on()
+comment3.params=
+comment3.target=void\ off()
+comment4.params=
+comment4.target=void\ setCD()
+comment5.params=
+comment5.target=void\ setDVD()
+comment6.params=
+comment6.target=void\ setRadio()
+comment7.params=volume
+comment7.target=void\ setVolume(int)
+comment8.params=c
+comment8.target=void\ setExecutedComman(Command)
+comment9.params=
+comment9.target=Command\ getExecutedComman()
+numComments=10

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Configuration
+comment1.params=
+comment1.target=Configuration()
+comment2.params=
+comment2.target=Configuration\ getInstance()
+comment3.params=
+comment3.target=int\ getNumberOfOptions()
+comment4.params=
+comment4.target=int\ getHeight()
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RemoteControlApp
+comment1.params=
+comment1.target=void\ loadRemote()
+comment1.text=Loads\ and\ sets\ up\ the\ remote\ control
+comment2.params=slot\ onCommand\ offCommand\ description
+comment2.target=void\ setRemoteCommand(int,\ Command,\ Command,\ java.lang.String)
+comment2.text=Sets\ the\ command\ and\ label\ text
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=
+comment4.target=void\ createAndShowGUI()
+comment5.params=e
+comment5.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment5.text=Executes\ when\ the\ GUI\ is\ closed
+numComments=6

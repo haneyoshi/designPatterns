@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Hottub
+comment0.text=From\ Head\ First\ Design\ Patterns,\ Freeman\ &\ Robson\ et\ al.
+comment1.params=
+comment1.target=Hottub()
+comment2.params=
+comment2.target=void\ on()
+comment3.params=
+comment3.target=void\ off()
+comment4.params=
+comment4.target=void\ circulate()
+comment5.params=
+comment5.target=void\ jetsOn()
+comment6.params=
+comment6.target=void\ jetsOff()
+comment7.params=temperature
+comment7.target=void\ setTemperature(int)
+numComments=8

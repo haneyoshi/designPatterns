@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=File
+comment1.params=name\ data\ size
+comment1.target=File(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getData()
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=indent
+comment4.target=void\ display(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getPath()
+comment6.params=v
+comment6.target=void\ accept(Visitor)
+comment7.params=s
+comment7.target=void\ accept(SearchVisitor)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

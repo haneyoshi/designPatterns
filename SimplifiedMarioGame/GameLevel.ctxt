@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GameLevel
+comment0.text=\n\ Name\:\ \ \ \ \ \ \ \ YUSHAN\ HUNG\n\ Course\:\ \ \ \ \ \ \ ACS-3913\n\ Student\ ID\:\ \ 3133878\n\ Assignment\:\ \ Assigment3\n
+comment1.params=
+comment1.target=java.lang.String\ renderEnemies()
+comment2.params=
+comment2.target=java.lang.String\ spawnEnemies()
+comment3.params=
+comment3.target=java.lang.String\ renderEnvironment()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=n
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getEnvironment()
+comment7.params=e
+comment7.target=void\ setEnvironment(java.lang.String)
+comment8.params=
+comment8.target=void\ createEnemies()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

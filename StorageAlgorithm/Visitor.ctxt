@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Visitor
+comment1.params=fo
+comment1.target=void\ visit(Folder)
+comment2.params=fi
+comment2.target=void\ visit(File)
+numComments=3
